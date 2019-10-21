@@ -181,7 +181,7 @@
   <link name="front_left_toe_link">
     <visual>
       <geometry>
-        <mesh filename="../STL/files/foot.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="../Hardware/other/foot.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 -0.40010 0" xyz="0 -0.01 0"/>
       <material name="grey"/>
@@ -306,7 +306,7 @@
   <link name="front_right_toe_link">
     <visual>
       <geometry>
-        <mesh filename="../STL/files/foot.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="../Hardware/other/foot.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 -0.40010 0" xyz="0 -0.01 0"/>
       <material name="grey"/>
@@ -431,7 +431,7 @@
   <link name="rear_left_toe_link">
     <visual>
       <geometry>
-        <mesh filename="../STL/files/foot.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="../Hardware/other/foot.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 -0.40010 0" xyz="0 -0.01 0"/>
       <material name="grey"/>
@@ -556,7 +556,7 @@
   <link name="rear_right_toe_link">
     <visual>
       <geometry>
-        <mesh filename="../STL/files/foot.stl" scale="0.001 0.001 0.001"/>
+        <mesh filename="../Hardware/other/foot.stl" scale="0.001 0.001 0.001"/>
       </geometry>
       <origin rpy="0 -0.40010 0" xyz="0 -0.01 0"/>
       <material name="grey"/>
