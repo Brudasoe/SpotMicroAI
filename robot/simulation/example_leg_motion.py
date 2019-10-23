@@ -1,5 +1,5 @@
 """
-Simulation of SpotMicroAI and it's Kinematics 
+Simulation of spotmicroai and it's Kinematics
 Use a Gamepad to see how it works
 Use Gamepad-Button to switch betweek walk on static-mode
 """

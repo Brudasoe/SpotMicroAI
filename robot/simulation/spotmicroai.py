@@ -1,5 +1,5 @@
 """
-SpotMicroAI Simulation
+spotmicroai Simulation
 """
 
 import pybullet_data

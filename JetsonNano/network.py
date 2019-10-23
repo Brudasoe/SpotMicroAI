@@ -1,5 +1,5 @@
 """
-SpotMicroAI Network Utils
+spotmicroai Network Utils
 """
 from threading import Thread
 import time

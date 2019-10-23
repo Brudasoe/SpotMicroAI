@@ -1,5 +1,5 @@
 """
-SpotMicroAI - Servos
+spotmicroai - Servos
 """
 
 from board import SCL_1, SDA_1

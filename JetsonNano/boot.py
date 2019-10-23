@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 """
-SpotMicroAI Bootscript
+spotmicroai Bootscript
 """
 
 from display import RobotDisplay
@@ -18,7 +18,7 @@ class RobotBoot():
 
     def __init__(self):
         self.display=None
-        print("Booting SpotMicroAI")
+        print("Booting spotmicroai")
         self.display=RobotDisplay()
         self.gyro=Gyro()
         self.servos=Servos()
@@ -29,7 +29,7 @@ class RobotBoot():
         self.mode=ModeStandby(self.servos)
 
     def exitHandler(self):
-        print("Exiting SpotMicroAI")
+        print("Exiting spotmicroai")
         if not self.display==None:
             self.display.bye()
         sys.exit()

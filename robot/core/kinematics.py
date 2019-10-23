@@ -1,5 +1,5 @@
 """
-SpotMicroAI - Kinematics
+spotmicroai - Kinematics
 
 Here all the core kinematics is done.
 This is used in both, simulation and runtime.

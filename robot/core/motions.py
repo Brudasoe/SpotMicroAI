@@ -1,5 +1,5 @@
 """
-SpotMicroAI - Motions
+spotmicroai - Motions
 
 This is where all the motion for the kinematics is done.
 """
